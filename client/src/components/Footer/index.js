@@ -5,7 +5,7 @@ function Footer() {
     <footer>
       <hr />
       <p className="pull-right">
-        <i className="fab fa-github" /> Zach Alaywan
+       Zach Alaywan
       </p>
     </footer>
   );
