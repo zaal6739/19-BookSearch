@@ -62,7 +62,7 @@ class Saved extends Component {
                           onClick={() => this.handleBookDelete(book._id)}
                           className="btn btn-danger ml-2"
                         >
-                          Delete
+                          Delete Book
                         </button>
                       )}
                     />
